@@ -2,7 +2,7 @@ import hashlib
 
 
 print("author dnanjer ")
-print("")
+print("subscribe xtacin")
 
 flag =0
 
